@@ -1,4 +1,4 @@
-https://github.com/edwardtatem38-pixel/Deep-learning-with-keras-and-tensorflow/blob/main/Deep%20Learning%20with%20keras%20and%20tensorflow.ipynb
+ ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 # 🏆 Weighted Logistic Regression Model: Loan Default Risk Predictor
 
 ## Executive Summary
