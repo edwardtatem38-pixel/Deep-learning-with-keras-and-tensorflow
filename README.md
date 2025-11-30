@@ -1,4 +1,4 @@
-https://colab.research.google.com/drive/1Gf21XMjGOAAnqqtT0b61ee8PqPdlkrJh
+![Open In Colab]https://colab.research.google.com/drive/1Gf21XMjGOAAnqqtT0b61ee8PqPdlkrJh
 # 🏆 Weighted Logistic Regression Model: Loan Default Risk Predictor
 
 ## Executive Summary
